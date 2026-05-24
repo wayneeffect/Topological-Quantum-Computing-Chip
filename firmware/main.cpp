@@ -1,5 +1,5 @@
 // main.cpp
-#include "tq_wayne.h"
+#include "../src/tq_wayne.h"
 #include <cstdio>
 
 int main() {
